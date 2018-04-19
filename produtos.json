@@ -1,0 +1,351 @@
+{
+    "mouses": [
+        {
+            "id": 1,
+            "nome": "Naga Trinity",
+            "valor": 600.00,
+            "marca": "Razer",
+            "desc": "O premiado Naga Epic agora na versão Chroma, com 19 botões programáveis otimizados para MMO, iluminação com 16,8 milhões de opções personalizáveis de cor.",
+            "ept": "Sensor a laser 4G de 8.200 DPI capaz de reconhecer a movimentação do mouse em velocidade de até 200 polegadas por segundo e aceleração máxima de 50G. Além disso, pode ser utilizado em modo wireless ou com cabo trançado de mais de dois metros e tecnologia de conexão Ultrapolling de 1000 Hz.",
+            "img": "img/produtos/mouse/naga/naga1.png",
+            "img2": "img/produtos/mouse/naga/naga2.jpg",
+            "img3": "img/produtos/mouse/naga/naga3.jpg"
+
+        },
+        {   
+            "id": 2,
+            "nome": "Mamba",
+            "valor": 400.00,
+            "marca": "Razer",
+            "desc": "O sensor de mouse para jogos mais preciso do mundo, com 16.000 dpi.",
+            "ept": "Equipado com o sensor de 16.000 DPI para jogos mais preciso do mundo, o Razer Mamba proporciona precisão incomparável, dando a você uma vantagem ainda maior sobre seus adversários.",
+            "img": "img/produtos/mouse/mamba/mamba1.png",
+            "img2": "img/produtos/mouse/mamba/mamba2.jpg",
+            "img3": "img/produtos/mouse/mamba/mamba3.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "DeathAdder Elite",
+            "valor": 350.00,
+            "marca": "Razer",
+            "desc": "O Sensor Óptico mais Avançado do Mundo - Equipado com um novo sensor óptico que oferece resolução real de 16.000 DPI e rastreamento real a 450 polegadas por segundo (PPS), ideais para eSports.",
+            "ept": "Razer DeathAdder Elite dá a você a vantagem absoluta de possuir o sensor mais veloz do mundo. Projetado para redefinir os padrões de precisão e velocidade, esse sensor incrível estraçalha a concorrência com uma precisão de resolução de 99,4%, para que você possa desferir mais golpes mortais com exatidão cirúrgica. Switches Mecânicos de Mouse Razer, Otimizados para Jogos. Formato Ergonômico Aperfeiçoado para Atletas de eSports.",
+            "img": "img/produtos/mouse/adder/adder1.png",
+            "img2": "img/produtos/mouse/adder/adder2.jpg",
+            "img3": "img/produtos/mouse/adder/adder3.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "Abyssus",
+            "valor": 200.00,
+            "marca": "Razer",
+            "desc": "O Razer Abyssus é o mouse mais básico lançado recentemente pela razer, sem muitos botões, porém Com Um Excelente Custo Benefício.",
+            "ept": "Ele conta com um sensor de última Geração, O 3g com 1800 Dpi (o mesmo sensor usado pelo deathadder), botões sensíveis com resposta táctil E Um Design Ergonômico E Ambidestro. Com Essas Características O Mouse Proporciona Ao Jogador Um Desempenho Fora De Série Com Qualidade E Conforto. Sensor 60 - 120 Inches E 60 De Aceleração , Isso Significa Que Por Mais Que Você Mexa O Mouse Rápido , O Sensor Fará A Leitura E Executará O Comando Precisamente. Sensor Com 1800 Dpi O Mouse Conta Com Sensor 3g De 1800 Dpi , Toda Essa Tecnologia Lhe Proporciona Maior Precisão Nos Movimentos E Um Maior Ajuste De Nível De Dpi Para Os Jogos",
+            "img": "img/produtos/mouse/aby/aby1.png",
+            "img2": "img/produtos/mouse/aby/aby2.png",
+            "img3": "img/produtos/mouse/aby/aby3.png"
+        },
+        {
+            "nome": "Ouroboros",
+            "valor": 1052.90,
+            "marca": "Razer",
+            "desc": "Mouse ambidestro com ergonomia totalmente personalizada. O Razer Ouroboros tem design ambidestro e conta com recursos ergonômicos que podem ser totalmente personalizados, como o descanso ajustável da palma da mão, além dos dois painéis laterais intercambiáveis. Este mouse especial para games se adéqua a todos os tipos de curvatura, formatos e tamanhos de mão, garantindo excelência em matéria de conforto e menos fadiga nas sessões prolongadas de jogo.",
+            "ept": "Sistema Sensor Duplo 4G de 8200 dpi que conta com um sensor óptico e um sensor a laser para uma calibragem impecável do mouse em qualquer superfície. Alta tecnologia sem fio incomparável e dedicada a games faz do Razer Ouroboros tão bom no desempenho com ou sem fio, o que dá liberdade a todos os seus movimentos para não dar trégua aos adversários. ",
+            "img": "img/produtos/mouse/ourobo/ourobo1.png",
+            "img2": "img/produtos/mouse/ourobo/ourobo2.jpg",
+            "img3": "img/produtos/mouse/ourobo/ourobo3.jpg"
+        },
+        {
+            "nome": "G300s",
+            "valor": 120.99,
+            "marca": "Logitech",
+            "desc": "Obtenha excelentes resultados com as configurações padrão incluídas no produto. Ou configure gatilhos de um único botão para ações que normalmente requerem vasculhar menus.",
+            "ept":"Resolução: 250 – 2.500 dpi Aceleração aceleração: > 20 G* Velocidade máxima: 60 ips (1,5 m/s)",
+            "img": "img/produtos/mouse/logg300s/g300s1.png",
+            "img2": "img/produtos/mouse/logg300s/g300s2.png",
+            "img3": "img/produtos/mouse/logg300s/g300s3.png"
+        },
+        {
+            "nome": "G302",
+            "valor": 100.81,
+            "marca": "Logitech",
+            "desc": "Concebido em conjunto com jogadores profissionais, o mouse para jogos MOBA G302 Daedalus Prime™ é uma ferramenta precisa fabricada com excelência.",
+            "ept":"6 botões programáveis Alternância de DPI imediata Sistema de tensionamento com molas de metal nos botões esquerdo e direito Transmissão em 1 milissegundo",
+            "img": "img/produtos/mouse/logg302/g3021.png",
+            "img2": "img/produtos/mouse/logg302/g3022.png",
+            "img3": "img/produtos/mouse/logg302/g3023.png"
+        },
+        {
+            "nome": "2400DPI",
+            "valor": 44.99,
+            "marca": "Multilazer",
+            "desc":"Mouse Gamer Multilaser 2400DPI 7 Botões Preto e Vermelho - MO236",
+            "img":"img/produtos/mouse/multi24/multi241.png",
+            "img2":"img/produtos/mouse/multi24/multi242.png",
+            "img3":"img/produtos/mouse/multi24/multi243.png"
+        },
+        {
+            "nome": "Warrior 4000DPI",
+            "valor": 170.99,
+            "marca": "Multilazer",
+            "desc":"Mouse Gamer Multilaser Warrior 4000DPI 18 botões Preto com LED - MO206",
+            "img":"img/produtos/mouse/warrior/warrior401.png",
+            "img2":"img/produtos/mouse/warrior/warrior402.png",
+            "img3":"img/produtos/mouse/warrior/warrior403.png"
+        },
+        {
+            "nome": "Rival 100",
+            "valor": 285.70,
+            "marca": "Steelseries",
+            "desc":"Mouse Gamer Steelseries Optico Rival 100 PT 62341",
+            "img":"img/produtos/mouse/rival100/rival1001.png",
+            "img2":"img/produtos/mouse/rival100/rival1002.png",
+            "img3":"img/produtos/mouse/rival100/rival1003.png"
+        },
+        {
+            "nome": "Rival 300",
+            "valor": 405.80,
+            "marca": "Steelseries",
+            "desc":"O Rival 300 reúne desempenho inigualável, um design totalmente novo, e altos níveis de personalização para torná-lo o mais profissional.",
+            "img":"img/produtos/mouse/rival300/rival3001.png",
+            "img2":"img/produtos/mouse/rival300/rival3002.png",
+            "img3":"img/produtos/mouse/rival300/rival3003.png"
+        }
+    ],
+    "teclados": [
+        {
+            "nome": "Cynosa",
+            "valor": 347.00,
+            "marca": "Razer",
+            "desc": "O teclado Cynosa é sem sombra de dúvidas o melhor custo-benefício da Razer. O Razer Cynosa conta com uma membrana onde a ativação acontece de forma parecida com o que acontece com os teclados mecânicos Razer. Tecnicamente, o Razer Cynosa possui teclas reforçadas e silenciosas, proporcionando um melhor desempenho do jogador. Além disso, no Razer Cynosa você pode programar macros em tempo real ou gravá-los por meio do software Razer Synapse, além de contar com um design arrojado, marca registrada dos produtos Razer. Para você que quer um teclado otimizado, com o selo Razer de qualidade e com baixo custo, o Cynosa é com certeza a sua melhor opção!",
+            "ept": "Teclas de membrana de grau de jogo Derramamento de design durável resistente Teclas totalmente programáveis com gravação de macro",
+            "img": "img/produtos/teclados/cynosa/cynosa1.png",
+            "img2": "img/produtos/teclados/cynosa/cynosa2.jpg",
+            "img3": "img/produtos/teclados/cynosa/cynosa3.png"
+        },
+        {
+            "nome": "Blackwidow X",
+            "valor": 1160.00,
+            "marca": "Razer",
+            "desc": "O teclado mecânico para jogos Razer BlackWidow foi lançado em 2010 e rapidamente se tornou o mais popular e o mais vendido teclado para jogos do mundo todo, estabelecendo-se como a primeira opção para os atletas de esportes eletrônicos. ",
+            "img": "img/produtos/teclados/blackwidow/blackwidow1.png"
+        },
+        {
+            "nome": "Orbweaver",
+            "valor": 881.06,
+            "marca": "Razer",
+            "desc": "O Razer Orbweaver é o primeiro teclado de jogos mecânicos do mundo que liga todos os comandos e habilidades de qualquer FPS, RTS e MMORPG a 20 chaves mecânicas ao seu alcance.",
+            "img": "img/produtos/teclados/orbweaver/orbweaver1.png"
+        },
+        {
+            "nome": "G413",
+            "valor": 470.47,
+            "marca": "Logitech",
+            "desc": "O G413 foi criado, desenvolvido e projetado com cuidado para oferecer desempenho avançado com o conjunto perfeito de recursos.",
+            "ept":"Altura: 132 mm Largura: 445 mm Profundidade: 34 mm",
+            "img": "img/produtos/teclados/g413/g4131.png",
+            "img2": "img/produtos/teclados/g413/g4132.png",
+            "img3": "img/produtos/teclados/g413/g4133.png"   
+        },
+        {
+            "nome": "G810",
+            "valor": 646.94,
+            "marca": "Logitech",
+            "desc": "Teclado Gamer Logitech G810 Mecânico Orion Spectrum RGB, Switch Romer-G, US",
+            "img": "img/produtos/teclados/g810/g8101.png"
+        },
+        {
+            "nome": "G910",
+            "valor": 850.80,
+            "marca": "Logitech",
+            "desc": "Teclado Logitech Gamer Mecânico LED Multicolorido Anti Ghosting G910",
+            "ept":"Altura: 505 mm Largura: 243,5 mm / 210 mm Profundidade: 35,5 mm",
+            "img": "img/produtos/teclados/g910/g9101.png",
+            "img2": "img/produtos/teclados/g910/g9102.png",
+            "img3": "img/produtos/teclados/g910/g9103.png"
+        },
+        {
+            "nome": "Warrior",
+            "valor": 176.30,    
+            "marca": "Multilazer",
+            "desc": "Explore ao máximo o seu desempenho. Com capacidade anti-ghosting, você pode utilizar vários comandos ao mesmo tempo sem perder a rapidez exigida pelo jogo.",
+            "img": "img/produtos/teclados/warrior/warrior1.png"
+        },
+        {
+            "nome": "Multimídia",
+            "valor": 50.50,
+            "marca": "Multilazer",
+            "desc": "Teclado Multimídia Chocolate USB Preto TC143, maior praticidade. Novo design de teclas, para seu conforto durante a digitação.",
+            "img": "img/produtos/teclados/multimidia/multimidia1.png"
+        },
+        {
+            "nome": "Apex100",
+            "valor": 270.35,
+            "marca": "Steelseries",
+            "desc": "Teclado Gamer Steelseries Apex 100 LED Azul / Padrão Americano - 64435",
+            "img": "img/produtos/teclados/apex100/apex1001.png"
+        },
+        {
+            "nome": "Apex350",
+            "valor": 898.70,
+            "marca": "Steelseries",
+            "desc": "Apresentando o Apex 350, um teclado para jogos projetados para permitir que os usuários reajam rapidamente e se movam estrategicamente.",
+            "img": "img/produtos/teclados/apex350/apex3501.png"
+        },
+        {
+            "nome": "M500",
+            "valor": 1100.00,
+            "marca": "Steelseries",
+            "desc": "Teclado Gamer Mecânico Steelseries Apex M500 LED Azul Cherry MX Red - Padrão US - 64490",
+            "img": "img/produtos/teclados/apexm500/apexm5001.png"
+        }
+    ],
+    "fones": [
+        {
+            "nome": "Kraken Essential",
+            "valor": 390.60,
+            "marca": "Razer",
+            "desc": "Mergulhe na plenitude sonora dos jogos com o Razer Kraken Essential. Ouça tudo em um som surround virtual imersivo que pode ser personalizado por meio do software de calibração Razer Surround.",
+            "img": "img/produtos/headset/razer/essential/essential1.png"
+        },
+        {
+            "nome": "Elektra V2 7.1",
+            "valor": 545.40,
+            "marca": "Razer",
+            "desc": "Headphone Gamer Razer Elektra V2 7.1 Virtual - USB.",
+            "img": "img/produtos/headset/razer/elektra/elektra1.png"
+        },
+        {
+            "nome": "Kraken Pro V2 Green",
+            "valor":  600.00,
+            "marca": "Razer",
+            "desc": "O Razer Kraken Pro V2 é equipado com drivers maiores que os de seu antecessor para proporcionar um som mais alto e mais farto do que nunca.",
+            "ept":"Resposta de frequência: 12 Hz – 28 kHz • Impedância: 32 Ω @ 1 kHz • Sensibilidade (@1 kHz): 118 dB",
+            "img": "img/produtos/headset/razer/krakengreen/krakengreen1.png",
+            "img2": "img/produtos/headset/razer/krakengreen/krakengreen2.png",
+            "img3": "img/produtos/headset/razer/krakengreen/krakengreen3.png"
+        },
+        {
+            "nome": "G430",
+            "valor": 370.40,
+            "marca": "Logitech",
+            "desc": "Você pode ouvir até sete canais discretos de dados de áudio, além do canal de efeitos de baixa frequência (LFE), conhecido como som surround 7.1.",
+            "img": "img/produtos/headset/logitech/g430/g4301.png"
+        },
+        {
+            "nome": "G633",
+            "valor": 680.20,
+            "marca": "Logitech",
+            "desc": "Desfrute de um som expansivo que coloca você no meio da ação com o G633 Artemis Spectrum Gaming Headset.",
+            "img": "img/produtos/headset/logitech/g633/g6331.png"
+        },
+        {
+            "nome": "G233",
+            "valor": 345.99,
+            "marca": "Logitech",
+            "desc": "Jogadores de computador esperam um desempenho de áudio envolvente, explosivo e alta qualidade durante os jogos. É por uma boa razão. Os jogos modernos oferecem design e efeitos de áudio incríveis.",
+            "ept":"Driver 40 mm - Resposta de frequência  20 Hz 20 KHz - Impedância 32 Ohms",
+            "img": "img/produtos/headset/logitech/g233/g2331.png",
+            "img2": "img/produtos/headset/logitech/g233/g2332.png",
+            "img3": "img/produtos/headset/logitech/g233/g2333.png"
+        },
+        {
+            "nome": "Warrior",
+            "valor": 85.90,
+            "marca": "Multilazer",
+            "desc": "Headset Gamer Multilaser Warrior P2 Preto e Vermelho - PH101",
+            "img": "img/produtos/headset/multilaser/warrior/warrior1.png"
+        },
+        {
+            "nome": "Earpad de Silicone",
+            "valor": 50.50,
+            "marca": "Multilazer",
+            "desc": "Headset Gamer Multilaser Earpad de Silicone P2 Preto e Vermelho - PH073",
+            "img": "img/produtos/headset/multilaser/earpad/earpad1.png"
+        },
+        {
+            "nome": "3H ",
+            "valor": 250.60,
+            "marca": "Steelseries",
+            "desc": "SteelSeries Headset Gamer 3H 61023",
+            "img": "img/produtos/headset/steelseries/3h/3h1.png"
+        },
+        {
+            "nome": "Arctis 5",
+            "valor": 815.30,
+            "marca": "Steelseries",
+            "desc": "Headset Gamer Steelserie Arctis 5 White 7.1 RGB - 61444",
+            "img": "img/produtos/headset/steelseries/arctis5/arctis51.png"
+        }
+    ],
+    "mousepads": [
+         {
+            "nome": "Goliathus M Speed",
+            "valor":180.40,
+            "marca": "Razer",
+            "desc": "Mousepad Gamer Razer Goliathus Medium Speed Terra",
+            "img": "img/produtos/mousepad/razer/goliathusm/goliathusm1.png"
+        },
+        {
+            "nome": "Goliathus L Control Gravity",
+            "valor": 216.90,
+            "marca" :"Razer",
+            "desc": "Mousepad Gamer Razer Goliathus Large Control Gravity",
+            "img": "img/produtos/mousepad/razer/goliathusl/goliathusl1.png"
+        },
+        {
+            "nome": "Vespula",
+            "valor": 189.90,
+            "marca" :"Razer",
+            "desc": "O Razer Vespula é um mouse pad 2 em 1, com superfícies SPEED e CONTROL, ele agrada qualquer usuário independente do estilo de jogo.",
+            "ept":"Revestimento resistente antiderrapante, antirrefletivo e resistente à abrasão Superfície SPEED para movimentos mais rápidos do mouse Superfície CONTROL para movimentos precisos do mouse.",
+            "img": "img/produtos/mousepad/razer/vespula/vespula1.png",
+            "img2": "img/produtos/mousepad/razer/vespula/vespula2.jpg",
+            "img3": "img/produtos/mousepad/razer/vespula/vespula3.jpg"
+        },
+        {
+            "nome": "G440 Small",
+            "valor": 99.90,
+            "marca":"Logitech",
+            "desc":"Possui uma textura que seu mouse necessita, dando velocidade e alta precisão.",
+            "img":"img/produtos/mousepad/logitech/g440/g4401.png"
+        },
+        {
+            "nome": "G640 Speed Large",
+            "valor": 145.29,
+            "marca":"Logitech",
+            "desc":"Mousepad Gamer Logitech G640 Speed Large Cloth 400x460mm",
+            "img":"img/produtos/mousepad/logitech/g640/g6401.png"
+        },
+        {
+            "nome": "Warrior Blue",
+            "valor": 61.69,
+            "marca":"Multilazer",
+            "desc":"Mousepad Gamer Multilaser Warrior sem Costura 250x340mm Preto e Azul - AC288",
+            "img":"img/produtos/mousepad/multilaser/warriorb/warriorb1.png"
+        },
+        {
+            "nome": "Warrior Red",
+            "valor": 61.69,
+            "marca":"Multilazer",
+            "desc":"Mousepad Gamer Multilaser Warrior sem Costura 250x340mm Preto e Vermelho - AC286",
+            "img":"img/produtos/mousepad/multilaser/warriorred/warriorr1.png"
+        },
+        {
+            "nome": "QCK Prism RGB",
+            "valor": 615.69,
+            "marca":"Steelseries",
+            "desc":"Mousepad Steelseries QCK Prism RGB - 63391",
+            "ept":"Lado de superfície nº 1: - Pano Lado de superfície - nº 2: Polímero rígido (plástico) Material base: Borracha de silicone",
+            "img":"img/produtos/mousepad/steelseries/qckprism/qckprism1.png",
+            "img2":"img/produtos/mousepad/steelseries/qckprism/qckprism2.png",
+            "img3":"img/produtos/mousepad/steelseries/qckprism/qckprism3.png"
+        },
+        {
+            "nome": "QCK Limited",
+            "valor": 169.29,
+            "desc":"Mousepad Steelseries QCK Limited- 63400",
+            "img":"img/produtos/mousepad/steelseries/qcklimited/qcklimited1.png"
+        }
+    ]
+}

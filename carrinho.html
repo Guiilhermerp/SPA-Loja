@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>LOJA</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+  crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="css/estilo.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <div class="container-fluid"> <!-- INICIO CONTAINER HEADER -->
+    <div class="row">
+
+      <header class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+        <nav class="navbar navbar-expand-lg navbar-dark">
+          <a class="navbar-brand" href="#">HeadShot<img src="img/headshot.jpg" alt="logo headshot" style="height: 40px; width: 40px;">com</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText"
+          aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Produtos
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" href="#">Headset <img src="img/head.png" alt="imagem do fone" style="height: 20px; width: 20px; float: right;"></button> </a>
+                <a class="dropdown-item" href="#">Mouse <img src="img/mouse.png" alt="imagem do mouse" style="height: 20px; width: 20px; float: right;"></a>
+                <a class="dropdown-item" href="#">Mousepad <img src="img/pad.png" alt="imagem do mousepad" style="height: 20px; width: 20px; float: right;"></a>
+                <a class="dropdown-item" href="#">Teclados <img src="img/teclado.png" alt="imagem do teclado" style="height: 20px; width: 20px; float: right;"></a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Meu Carrinho <img src="img/cart.png" alt="imagem do carrinho" style="height: 20px; width: 20px; float: right;"></a>
+            </li>
+          </ul>
+          <form class="form-inline">
+            <input class="form-control mr-sm-2" type="search" placeholder="Buscar no site ?" aria-label="Search">
+            <button class="btn btn-sm btn-outline-secondary my-2 my-sm-0" type="submit">Buscar  <img src="img/search.png" alt="imagem da lupa" style="height: 20px; width: 20px; float: right;"></button>
+          </form>
+          <span class="navbar-text">
+            <button class="btn btn-sm btn-outline-secondary" type="button">Fazer Login <img src="img/user.png" style="height: 20px; width: 20px;"></button>
+          </span>
+        </div>
+      </nav>
+    </header>
+
+  </div>
+</div> <!-- FIM CONTAINER HEADER -->
+
+<div class="container-fluid">
+  <table id="cart" class="table table-hover table-condensed">
+    <thead>
+      <tr>
+        <th style="width:50%">Produto</th>
+        <th style="width:10%">Preço</th>
+        <th style="width:8%">Quantidade</th>
+        <th style="width:22%" class="text-center">Subtotal</th>
+        <th style="width:10%"></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <div class="row">
+            <div class="col-sm-2 hidden-xs"><img src="img/death.png" style="height: 100px; width: 100px;" alt="Mouse deathAdder" class="img-responsive"/></div>
+            <div class="col-sm-10">
+              <h4 class="nomargin">Razer DeathAdder</h4>
+              <p class="desc-car">Desde a primeira versão, o Razer DeathAdder continua a oferecer aos gamers a experiência de jogo mais confortável que existe no mercado.</p>
+            </div>
+          </div>
+        </td>
+        <td data-th="Price">R$ 250.00</td>
+        <td data-th="Quantity">
+          <input type="number" class="form-control text-center" value="1">
+        </td>
+        <td data-th="Subtotal" class="text-center">R$ 250.00</td>
+        <td class="actions" data-th="">
+          <button class="btn but-compra btn-sm"><i class="fas fa-redo"></i></button>
+          <button class="btn but-compra btn-sm"><i class="fas fa-trash-alt"></i></button>                
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="row">
+            <div class="col-sm-2 hidden-xs"><img src="img/death.png" style="height: 100px; width: 100px;" alt="Mouse deathAdder" class="img-responsive"/></div>
+            <div class="col-sm-10">
+              <h4 class="nomargin">Razer DeathAdder</h4>
+              <p class="desc-car">Desde a primeira versão, o Razer DeathAdder continua a oferecer aos gamers a experiência de jogo mais confortável que existe no mercado.</p>
+            </div>
+          </div>
+        </td>
+        <td data-th="Price">R$ 250.00</td>
+        <td data-th="Quantity">
+          <input type="number" class="form-control text-center" value="1">
+        </td>
+        <td data-th="Subtotal" class="text-center">R$ 250.00</td>
+        <td class="actions" data-th="">
+          <button class="btn but-compra btn-sm"><i class="fas fa-redo"></i></button>
+          <button class="btn but-compra btn-sm"><i class="fas fa-trash-alt"></i></button>                
+        </td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td><a href="#" class="btn but-compra"><i class="fa fa-angle-left"></i> Continuar Comprando</a></td>
+        <td colspan="2" class="hidden-xs"></td>
+        <td class="hidden-xs text-center"><strong>Total $500.00</strong></td>
+        <td><a href="#" class="btn btn-block but-compra">Finalizar <i class="fa fa-angle-right"></i></a></td>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<hr>
+
+<div class="container-fluid mt-3" id="roda">
+  <div class="row">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 text-center">
+     <div class="row">
+      <div class="col-12 col-sm-12 col-md-2 col-lg-2 col-xl-2 text-center">
+
+        <p>Redes Sociais</p>
+        <ul class="nav flex-column">
+          <li class="nav-item">
+            <a class="nav-link" href="https://facebook.com/"><img src="img/face.png" alt="icone facebook" class="text-center" style="height: 40px; width: 40px;">
+            /headshot</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://twitter.com/"><img src="img/insta.png" alt="icone twitter" class="text-center" style="height: 40px; width: 40px;">@headshot</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.instagram.com/"><img src="img/twitter.png" alt="icone instagram" class="text-center" style="height: 40px; width: 40px;">@headshot</a>
+          </li>
+
+        </ul>
+      </div>
+      <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 text-center">
+       <p>Patrocinadores</p>
+       <ul class="nav flex-column">
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.razer.com/"><img src="img/razer-logo.png" alt="icone Razer" class="text-center" style="height: 40px; width: 40px;">Razer</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://steelseries.com/"><img src="img/steel.jpg" alt="icone SteelSeries" class="text-center" style="height: 40px; width: 40px;">SteelSeries</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.logitech.com/"><img src="img/log.png" alt="icone logitech" class="text-center" style="height: 40px; width: 40px;">Logitech</a>
+        </li>
+      </ul>
+    </div>
+    <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
+      <p>Informações</p>
+      <ul class="nav flex-column">
+        <li class="nav-item">
+          <a class="nav-link"><img src="img/end.png" alt="icone do endereço" class="text-center" style="height: 40px; width: 40px;">Rua Dust, n°2 - Aztec - 66613-666</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link"><img src="img/email.png" alt="icone Razer" class="text-center" style="height: 40px; width: 40px;">headshot@gmail.com</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link"><img src="img/cell.png" alt="icone telefone para contato" class="text-center" style="height: 40px; width: 40px;">55(11)3048-6661<img src="img/wpp.png" alt="icone telefone para contato" class="text-center" style="height: 40px; width: 40px;">55(11)99854-6587</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+<div class="container-fluid" id="final"><div class="row"><div class="col-12 text-center"><p>Copyright © 2018 HeadShot<img src="img/headshot.jpg" style="height: 20px; width: 20px;"/>com   |   Todos direitos Reservados.</p></div></div></div>
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+crossorigin="anonymous"></script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/solid.js" integrity="sha384-+Ga2s7YBbhOD6nie0DzrZpJes+b2K1xkpKxTFFcx59QmVPaSA8c7pycsNaFwUK6l"
+crossorigin="anonymous"></script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/fontawesome.js" integrity="sha384-7ox8Q2yzO/uWircfojVuCQOZl+ZZBg2D2J5nkpLqzH1HY0C1dHlTKIbpRz/LG23c"
+crossorigin="anonymous"></script>
+
+</body>
+
+</html>

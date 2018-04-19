@@ -1,0 +1,370 @@
+* {
+	margin: 0;
+	padding: 0;
+}	
+
+html, body{	
+	font-family: Roboto,Helvetica,Arial,sans-serif;
+	background: #000;
+	font-weight: 200;
+	color: #f8f9fa;
+}
+
+
+h1{
+	font-size: 20px;
+}
+
+h2{
+	font-size: 17px;
+}
+
+h3{
+	font-size: 15px;
+}
+
+h4{
+	font-size: 15px;
+	border-bottom: 1px solid white; 
+
+}
+
+p {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+
+s{
+	color: red;
+	font-weight: bold;
+}
+
+
+ul{
+	text-decoration: none;
+	list-style-type: none;
+	margin: 5px;
+	padding: 5px;
+}
+
+
+
+
+/*Carrinho*/
+
+.modal-header{
+	background: black;
+	border-bottom: white;
+	color: white;
+}
+
+.modal-body{
+	background: black;
+	color: white;
+}
+
+.modal-footer {
+	background: black;
+}
+
+button.close{
+	color: white;
+}
+
+
+/* Filtros  */
+
+
+.a-filtro{
+	color: white;
+}
+
+.a-filtro:hover{
+	color: white;
+	text-decoration: none;
+}
+
+/*Nav Bar*/
+
+.navbar{
+	background: black;
+}
+
+.dropdown-menu{
+	background: black;
+}
+
+.dropdown-item{
+	color: #f8f9fa;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: #f8f9fa;
+}
+
+.btn-outline-secondary {
+	color: #f8f9fa;
+	background-color: transparent;
+	background-image: none;
+	border-color: #f8f9fa;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+	background: white;
+	color: black;
+	transition: all .7s ease;
+}
+
+.nav-link{
+	text-decoration: none;
+	color: white;
+}
+
+.nav-link img{
+	margin-right: 10px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+	color: #fff;
+	background-color: black;
+}
+
+/*Carousel*/
+
+.carousel-inner > img {
+	width: 10%;     
+}
+
+
+/*Cards*/
+
+.img-thumbnail{
+	color: #999;
+}
+
+
+.img-thumbnail {
+	color: white;
+	margin-bottom: 10px;
+	padding: .25rem;
+	background-color: black;
+	border: 1px solid white;
+	border-radius: .25rem;
+	max-width: 100%;
+	height: auto;
+	text-decoration: none;
+}
+
+.img-thumbnail:hover{
+	background-color: white;
+	border: 1px solid black;
+	color: black;
+	transition: all .7s ease;
+}
+
+
+/* Botões */
+
+.btn:not(:disabled):not(.disabled):hover{
+	background: white;
+	color: black;
+	transition: all .7s ease;
+}
+
+
+.but-compra{
+	color: white;
+	background: #333;
+	border-color: white;
+}
+
+.but-compra:hover{
+	color: white;
+	background: transparent;
+	border-color: black;
+	transition: all .7s ease;
+}
+
+
+/* background*/
+
+.bg-white{
+	color: black;
+}
+
+
+/* Tabela */
+
+table#cart tbody td .form-control{
+	width:20%;
+	display: inline !important;
+}
+
+.actions .btn{
+	width:36%;
+	margin:1.5em 0;
+}
+
+.actions .btn-info{
+	float:left;
+}
+
+.actions .btn-danger{
+	float:right;
+}
+
+table#cart thead { 
+	display: none; 
+}
+
+table#cart tbody td { 
+	display: block; padding: .1rem; min-width:250px;
+}
+
+table#cart tbody tr td:first-child {
+	background: black; color: #fff; 
+}
+
+table#cart tbody td:before {
+	content: attr(data-th); font-weight: bold;
+	display: inline-block; width: 5rem;
+}
+
+table#cart tfoot td{
+	display:block; 
+}
+
+table#cart tfoot td .btn{
+	display:block;
+} 
+
+.actions .btn {
+    width: 30%;
+    margin: 1.5em 0;
+    float: right;
+}
+
+
+
+
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+
+
+
+
+@media (max-width: 575.98px) { 
+
+
+	.form-control{
+		width: 50%;
+		height: 50%;
+		margin-right: 5px;
+	}
+
+	table#cart tbody td .form-control{
+		width:20%;
+		display: inline !important;
+	}
+
+	.actions .btn{
+		width:36%;
+		margin:1.5em 0;
+	}
+
+	.actions .btn-info{
+		float:left;
+	}
+
+	.actions .btn-danger{
+		float:right;
+	}
+
+	table#cart thead { 
+		display: none; 
+	}
+
+	table#cart tbody td { 
+		display: block; padding: .1rem; min-width:250px;
+	}
+
+	table#cart tbody tr td:first-child {
+		background: black; color: #fff; 
+	}
+
+	table#cart tbody td:before {
+		content: attr(data-th); font-weight: bold;
+		display: inline-block; width: 5rem;
+	}
+
+	table#cart tfoot td{
+		display:block; 
+	}
+
+	table#cart tfoot td .btn{
+		display:block;
+	} 
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+	.form-control{
+		width: 50%;
+		height: 50%;
+		margin-right: 5px;
+	}
+
+}
+
+/* Medium devices (tablets, 768px and up*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+	
+
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {  
+
+	.dropdown-menu{
+		margin-top: .10rem;
+	}
+
+	.form-inline{
+		margin-right: 5rem;
+	}
+
+	.form-inline input{
+		height: 35px;
+	}
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	
+	.dropdown-menu{
+		margin-top: .10rem;
+	}
+
+	.navbar-brand{
+		margin-right: 5rem;
+	}
+
+	.form-inline{
+		margin-right: 13rem;
+	}
+
+	.form-inline input{
+		height: 35px;
+	}
+}
+
+

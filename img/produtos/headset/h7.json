@@ -1,0 +1,70 @@
+{
+    "nome": "Razer Kraken Essential",
+    "valor": 390.60,
+    "marca": "Razer",
+    "desc": "Mergulhe na plenitude sonora dos jogos com o Razer Kraken Essential. Ouça tudo em um som surround virtual imersivo que pode ser personalizado por meio do software de calibração Razer Surround.",
+    "img": "img/razer/essential/essential1.png"
+},
+{
+    "nome": "Razer Elektra V2 7.1",
+    "valor": 545.40,
+    "marca": "Razer",
+    "desc": "Headphone Gamer Razer Elektra V2 7.1 Virtual - USB.",
+    "img": "img/razer/elektra/elektra1.png"
+},
+{
+    "nome": "Razer Kraken Pro V2 Green",
+    "valor":  600.00,
+    "marca": "Razer",
+    "desc": "O Razer Kraken Pro V2 é equipado com drivers maiores que os de seu antecessor para proporcionar um som mais alto e mais farto do que nunca.",
+    "img": "img/razer/krakengreen/krakenpro1.png"
+},
+{
+    "nome": "Logitech G430",
+    "valor": 370.40,
+    "marca": "Logitech",
+    "desc": "Você pode ouvir até sete canais discretos de dados de áudio, além do canal de efeitos de baixa frequência (LFE), conhecido como som surround 7.1.",
+    "img": "img/logitech/g430/g4301.png"
+},
+{
+    "nome": "Logitech G633 Artemis Spectrum",
+    "valor": 680.20,
+    "marca": "Logitech",
+    "desc": "Desfrute de um som expansivo que coloca você no meio da ação com o G633 Artemis Spectrum Gaming Headset.",
+    "img": "img/logitech/g633/g6331.png"
+},
+{
+    "nome": "Logitech G233 Prodigy",
+    "valor": 345.99,
+    "marca": "Logitech",
+    "desc": "Jogadores de computador esperam um desempenho de áudio envolvente, explosivo e alta qualidade durante os jogos. É por uma boa razão. Os jogos modernos oferecem design e efeitos de áudio incríveis.",
+    "img": "img/logitech/g233/g2331.png"
+},
+{
+    "nome": "Multilaser Warrior",
+    "valor": 85.90,
+    "marca": "Multilazer",
+    "desc": "Headset Gamer Multilaser Warrior P2 Preto e Vermelho - PH101",
+    "img": "img/multilaser/warrior/warrior1.png"
+},
+{
+    "nome": "Multilaser Earpad de Silicone",
+    "valor": 50.50,
+    "marca": "Multilazer",
+    "desc": "Headset Gamer Multilaser Earpad de Silicone P2 Preto e Vermelho - PH073",
+    "img": "img/multilaser/earpad/earpad1.png"
+},
+{
+    "nome": "Steelseries 3H ",
+    "valor": 250.60,
+    "marca": "SteelSeries",
+    "desc": "SteelSeries Headset Gamer 3H 61023",
+    "img": "img/steelseries/3h/3h1.png"
+},
+{
+    "nome": "Steelseries Arctis 5",
+    "valor": 815.30,
+    "marca": "SteelSeries",
+    "desc": "Headset Gamer Steelserie Arctis 5 White 7.1 RGB - 61444",
+    "img": "img/razer/arctis5/arctis51.png"
+},

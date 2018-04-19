@@ -1,0 +1,78 @@
+{
+    "nome": "Razer Cynosa",
+    "valor": 347.00,
+    "marca": "Razer",
+    "desc": "O teclado Cynosa é sem sombra de dúvidas o melhor custo-benefício da Razer. O Razer Cynosa conta com uma membrana onde a ativação acontece de forma parecida com o que acontece com os teclados mecânicos Razer. Tecnicamente, o Razer Cynosa possui teclas reforçadas e silenciosas, proporcionando um melhor desempenho do jogador. Além disso, no Razer Cynosa você pode programar macros em tempo real ou gravá-los por meio do software Razer Synapse, além de contar com um design arrojado, marca registrada dos produtos Razer. Para você que quer um teclado otimizado, com o selo Razer de qualidade e com baixo custo, o Cynosa é com certeza a sua melhor opção!",
+    "ept": "Ele conta com um sensor de última Geração, O 3g com 1800 Dpi (o mesmo sensor usado pelo deathadder), botões sensíveis com resposta táctil E Um Design Ergonômico E Ambidestro. Com Essas Características O Mouse Proporciona Ao Jogador Um Desempenho Fora De Série Com Qualidade E Conforto. Sensor 60 - 120 Inches E 60 De Aceleração , Isso Significa Que Por Mais Que Você Mexa O Mouse Rápido , O Sensor Fará A Leitura E Executará O Comando Precisamente. Sensor Com 1800 Dpi O Mouse Conta Com Sensor 3g De 1800 Dpi , Toda Essa Tecnologia Lhe Proporciona Maior Precisão Nos Movimentos E Um Maior Ajuste De Nível De Dpi Para Os Jogos",
+    "img": "img/razer/cynosa/cynosa1.png"
+},
+{
+    "nome": "Razer Blackwidow X Ultimate Switch Cherry",
+    "valor": 1.160,
+    "marca": "Razer",
+    "desc": "O teclado mecânico para jogos Razer BlackWidow foi lançado em 2010 e rapidamente se tornou o mais popular e o mais vendido teclado para jogos do mundo todo, estabelecendo-se como a primeira opção para os atletas de esportes eletrônicos. ",
+    "img": "img/razer/blackwidow/blackwidow1.png"
+},
+{
+    "nome": "Razer Orbweaver",
+    "valor": 881.06,
+    "marca": "Razer",
+    "desc": "O Razer Orbweaver é o primeiro teclado de jogos mecânicos do mundo que liga todos os comandos e habilidades de qualquer FPS, RTS e MMORPG a 20 chaves mecânicas ao seu alcance.",
+    "img": "img/razer/orbweaver/orbweaver1.png"
+},
+{
+    "nome": "Logitech G413",
+    "valor": 470.47,
+    "marca": "Logitech",
+    "desc": "O G413 foi criado, desenvolvido e projetado com cuidado para oferecer desempenho avançado com o conjunto perfeito de recursos.",
+    "img": "img/logitech/g413/g4131.png" 
+},
+{
+    "nome": "Logitech G810",
+    "valor": 646.94,
+    "marca": "Logitech",
+    "desc": "Teclado Gamer Logitech G810 Mecânico Orion Spectrum RGB, Switch Romer-G, US",
+    "img": "img/logitech/g810/g8101.png"
+},
+{
+    "nome": "Logitech G910",
+    "valor": 850.80,
+    "marca": "Logitech",
+    "desc": "Teclado Logitech Gamer Mecânico LED Multicolorido Anti Ghosting G910",
+    "img": "img/logitech/g910/g9101.png"
+},
+{
+    "nome": "Multilaser Warrior",
+    "valor": 176.30,
+    "marca": "Multilazer",
+    "desc": "Explore ao máximo o seu desempenho. Com capacidade anti-ghosting, você pode utilizar vários comandos ao mesmo tempo sem perder a rapidez exigida pelo jogo.",
+    "img": "img/multilaser/warrior/warrior1.png"
+},
+{
+    "nome": "Multilaser Multimídia",
+    "valor": 50.50,
+    "marca": "Multilazer",
+    "desc": "Teclado Multimídia Chocolate USB Preto TC143, maior praticidade. Novo design de teclas, para seu conforto durante a digitação.",
+    "img": "img/multilaser/multimidia/multimidia1.png"
+},
+{
+    "nome": "Steelseries Apex 100",
+    "valor": 270.35,
+    "marca": "SteelSeries",
+    "desc": "Teclado Gamer Steelseries Apex 100 LED Azul / Padrão Americano - 64435",
+    "img": "img/steelseries/apex100/apex1001.png"
+},
+{
+    "nome": "Steelseries Apex 350",
+    "valor": 898.70,
+    "marca": "SteelSeries",
+    "desc": "Apresentando o Apex 350, um teclado para jogos projetados para permitir que os usuários reajam rapidamente e se movam estrategicamente.",
+    "img": "img/steelseries/apex500/apex3501.png"
+},
+{
+    "nome": "Steelseries Apex M500",
+    "valor": 1.100,
+    "marca": "SteelSeries",
+    "desc": "Teclado Gamer Mecânico Steelseries Apex M500 LED Azul Cherry MX Red - Padrão US - 64490",
+    "img": "img/steelseries/apexm500/apexm5001.png"
+}
